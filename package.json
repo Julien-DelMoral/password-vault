@@ -1,0 +1,23 @@
+{
+  "name": "password-vault",
+  "version": "0.1.0",
+  "description": "A simple electron desktop app for password storage and management",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^9.0.5"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-DelMoral/password-vault.git"
+  },
+  "author": "Julien Del Moral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Julien-DelMoral/password-vault/issues"
+  },
+  "homepage": "https://github.com/Julien-DelMoral/password-vault#readme"
+}
